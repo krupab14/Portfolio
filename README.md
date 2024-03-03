@@ -1,5 +1,4 @@
 # Portfolio
-Simple Static Portfolio
 Welcome to my Simple Static Portfolio repository! This project showcases a minimalist yet elegant portfolio website that I created using HTML, CSS, and JavaScript.
 
 About the Portfolio:
